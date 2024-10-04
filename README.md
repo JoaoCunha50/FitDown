@@ -1,4 +1,4 @@
-# POO2324
+# POO
 
 ## Grade: 18/20 :star:
 
