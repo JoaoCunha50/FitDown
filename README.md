@@ -2,9 +2,8 @@
 
 ## Grade: 18/20 :star:
 
-An [ncurses](https://invisible-island.net/ncurses/) roguelite game, made for
-our [LI2](https://www4.di.uminho.pt/~jno/sitedi/uc_J302N6.html) class. 
-For our [LI2](https://www4.di.uminho.pt/~jno/sitedi/uc_J302N6.html) class, we made an [ncurses](https://invisible-island.net/ncurses/)  roguelite game.
+A Fitness App , made for
+our [POO](https://www4.di.uminho.pt/~jno/sitedi/uc_J302N6.html) class. 
 
 ## Building
 
